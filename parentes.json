@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": "5974",
+            "parent_exercise_id": "5974",
+            "name": "variables-intro",
+            "slug": "variables_json__variables/variables-intro_json",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-intro.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5976",
+            "parent_exercise_id": "5974",
+            "name": "variables-question",
+            "slug": "variables_json__variables/variables-question_json",
+            "sequence_num": 1,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-question.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5975",
+            "parent_exercise_id": "5974",
+            "name": "variables-naming-rules",
+            "slug": "variables_json__variables/variables-naming-rules_json",
+            "sequence_num": 2,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-naming-rules.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5977",
+            "parent_exercise_id": "5974",
+            "name": "variables-naming-conventions",
+            "slug": "variables_json__variables/variables-naming-conventions_json",
+            "sequence_num": 3,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-naming-conventions.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5978",
+            "parent_exercise_id": "5974",
+            "name": "variables-naming-question1",
+            "slug": "variables_json__variables/variables-naming-question1_json",
+            "sequence_num": 4,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-naming-question1.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5979",
+            "parent_exercise_id": "5974",
+            "name": "variables-naming-question2",
+            "slug": "variables_json__variables/variables-naming-question2_json",
+            "sequence_num": 5,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-naming-question2.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5980",
+            "parent_exercise_id": "5974",
+            "name": "variables-naming-question3",
+            "slug": "variables_json__variables/variables-naming-question3_json",
+            "sequence_num": 6,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-naming-question3.json",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "5981",
+            "parent_exercise_id": "5974",
+            "name": "variables-naming-question4",
+            "slug": "variables_json__variables/variables-naming-question4_json",
+            "sequence_num": 7,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables_json/variables/variables-naming-question4.json",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
